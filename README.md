@@ -12,20 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Akash
+# 👋 Hi, I'm Ayush
 
 - 🔧 Full-Stack Developer based in Bhubaneswar, India.
-- 📬 How to reach me: [k.akashkumar2005@gmail.com](mailto:k.akashkumar2005@gmail.com)
+- 📬 How to reach me: [ayushbehera2803@gmail.com](mailto:ayushbehera2803@gmail.com)
 - 🧠 Solved 168+ LeetCode problems, showcasing strong skills in Java, C++, and Python.
 - 🌟 Starred projects like a Chatbot and Spotify Clone, shining with sleek UI and solid backend logic.
-- 🔗 Rocking a cool 400+ connections on [LinkedIn](https://www.linkedin.com/in/akash-kanar/)!
-- 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](#).
+- 🔗 Rocking a cool 400+ connections on [LinkedIn](https://www.linkedin.com/in/ayush-behera2803?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)!
+- 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](https://ayushbehera-star.github.io/Portfolio/).
 
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/akash-kanar/)
-[![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:k.akashkumar2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ayush-behera2803?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-white?logo=gmail)](mailto:ayushbehera2803@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/ll___akashhh___ll/?hl=en)
 [![Leetcode](https://img.shields.io/badge/Leetcode-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/u/akashkumar8917/)
 
